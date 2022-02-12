@@ -24,6 +24,10 @@ Keyin gi qatorlar qushildi
 
 
 non fast forwarding branch feature
+<<<<<<< HEAD
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+=======
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+>>>>>>> feature
 study conflict
