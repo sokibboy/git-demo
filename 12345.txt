@@ -1,2 +1,6 @@
 fgdg
 git reset
+
+
+non fast forwarding study
+second line non fast forwarding feature
