@@ -21,3 +21,6 @@ Har kuni ishlayman
 
 
 Keyin gi qatorlar qushildi 
+
+
+non fast forwarding branch feature
